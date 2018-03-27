@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiztador</string>
+    <string name="bkg_login_sign_up">bkg_login_signup</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="or_sign_up">or signup</string>
+    <string name="already_have_an_account">Already have an account? Login</string>
+</resources>
